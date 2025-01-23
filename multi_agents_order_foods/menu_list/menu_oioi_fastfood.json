@@ -1,0 +1,29 @@
+{
+    "menu": [
+      {
+        "category": "Burgers",
+        "items": [
+          { "id": 1, "name": "Classic Cheeseburger", "price": 5.99, "icon": "🍔" },
+          { "id": 2, "name": "Double Bacon Burger", "price": 7.99, "icon": "🥓" },
+          { "id": 3, "name": "Veggie Burger", "price": 6.49, "icon": "🥬" }
+        ]
+      },
+      {
+        "category": "Fries",
+        "items": [
+          { "id": 4, "name": "Small Fries", "price": 1.99, "icon": "🍟" },
+          { "id": 5, "name": "Large Fries", "price": 2.99, "icon": "🍟" },
+          { "id": 6, "name": "Cheese Fries", "price": 3.49, "icon": "🧀" }
+        ]
+      },
+      {
+        "category": "Drinks",
+        "items": [
+          { "id": 7, "name": "Soda", "price": 1.50, "icon": "🥤" },
+          { "id": 8, "name": "Milkshake", "price": 3.50, "icon": "🍹" },
+          { "id": 9, "name": "Iced Tea", "price": 2.00, "icon": "🧊" }
+        ]
+      }
+    ]
+  }
+  
